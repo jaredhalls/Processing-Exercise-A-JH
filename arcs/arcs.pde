@@ -16,7 +16,6 @@ void draw(){
    strokeWeight(11);
    stroke(0,121,255);
    arc(380,425,600,600,PI,PI+HALF_PI);
-      
       strokeWeight(8);
    stroke(153,92,53);
    arc(250,325,600,600,0,PI-HALF_PI);
