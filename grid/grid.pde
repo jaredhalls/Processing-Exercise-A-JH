@@ -17,4 +17,9 @@ void draw() {
       ellipse(x, y, 23, 23);
     }
   }
+  for(int z = 300; z > 0; z--){
+    noStroke();
+    fill(100 + z % 255, z % 255, 255);
+    ellipse(200, 500, z, z);
+  }
 }
