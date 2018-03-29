@@ -5,3 +5,4 @@
 ![Exercise A4](https://i.imgur.com/3IKMXkG.png)
 ![Exercise A5](https://i.imgur.com/Xa7NyCP.png)
 ![Exercise A6](https://i.imgur.com/wteIuFV.png)
+![Exercise A7](https://i.imgur.com/owUKVNt.png)
