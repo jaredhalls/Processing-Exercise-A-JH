@@ -2,6 +2,7 @@ String sentence;
 
 void settings() {
     size(300, 300);
+    background(0);
 }
 
 void setup() {
